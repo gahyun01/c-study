@@ -4,8 +4,6 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-64bit-0078D4?style=for-the-badge)
 ![Visual Studio 2026](https://img.shields.io/badge/Visual_Studio_2026-Community-5C2D91?style=for-the-badge)
 
-<kbd>C99</kbd> <kbd>Windows 11 64bit</kbd> <kbd>Visual Studio 2026 Community</kbd>
-
 <br/>
 
 ## 📌 기준 표준

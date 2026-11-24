@@ -2,7 +2,9 @@
 
 ![C99](https://img.shields.io/badge/C99-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-64bit-0078D4?style=for-the-badge)
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-Community-5C2D91?style=for-the-badge)
+![Visual Studio 2026](https://img.shields.io/badge/Visual_Studio_2026-Community-5C2D91?style=for-the-badge)
+
+<kbd>C99</kbd> <kbd>Windows 11 64bit</kbd> <kbd>Visual Studio 2026 Community</kbd>
 
 <br/>
 
@@ -25,7 +27,7 @@
 |---|---|
 | 표준 | C99 ( ISO/IEC 9899:1999 ) |
 | 운영체제 | MS Windows 11 ( 64비트 ) |
-| 컴파일러 | Visual Studio 2022 Community |
+| 컴파일러 | Visual Studio 2026 Community |
 
 > [!NOTE]
 > 모든 예제는 위 환경에서 실행했다.
